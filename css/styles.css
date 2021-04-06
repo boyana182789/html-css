@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+h1{
+	color:greenyellow;
+}
+	
+.my-class{
+	color:red;
+	background-color:lightblue;
+	border:1px solid blue;
+	text-align:center;
+	padding:2em;
+	font-family: 'Open Sans', sans-serif; 
+	font-size: 50pt;
+}
+.my-title{
+	color: darkolivegreen; 
+	background-color: magenta;
+}
+.picture{
+	text-align: center;
+}
+p{
+    color: red; 
+	text-align: center;
+}
